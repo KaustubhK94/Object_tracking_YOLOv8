@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Eagle']
+
+roboflow:
+  workspace: mlassignment-o2baw
+  project: flying-eagle
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mlassignment-o2baw/flying-eagle/dataset/2
