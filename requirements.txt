@@ -1,1 +1,2 @@
 ultralytics~=8.0.200
+sahi~=0.11.14
